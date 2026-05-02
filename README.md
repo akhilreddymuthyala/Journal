@@ -35,7 +35,7 @@ Journal/
 
 ### 1. Clone the repo
 ```bash
-git clone [https://github.com/your-username/journal-app.git](https://github.com/akhilreddymuthyala/Journal.git)
+git clone https://github.com/akhilreddymuthyala/Journal.git
 cd journal-app
 ```
 
